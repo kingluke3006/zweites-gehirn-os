@@ -36,7 +36,7 @@ Dazu `prompts/` mit dem Start- und dem Routinen-Prompt.
 
 ## Worauf es beruht
 
-Die Grundstruktur (raw, wiki, index, log) und die drei Operationen Ingest, Query, Lint stammen von **Sebastian Kauffmann** (SKAILE Academy, Modul Agentic OS), ebenso die Idee, Cloud-Routinen über einen GitHub-Branch in den Vault schreiben zu lassen. Beides ist hier mit seiner Erlaubnis übernommen und um die Wissensregeln ergänzt, die sich in meinem eigenen System über ein Jahr bewährt haben: eine Quelle je Information, alter Stand wird markiert statt gelöscht, fünf Fragen vor dem Speichern, nichts nach außen ohne Nachfrage.
+Die Grundstruktur (raw, wiki, index, log) und die drei Operationen Ingest, Query, Lint stammen von **Sebastian Kauffmann** (SKAILE Academy, Modul Agentic OS), ebenso die Idee, Cloud-Routinen über einen GitHub-Branch in den Vault schreiben zu lassen. Beides ist hier mit Nennung übernommen und um die Wissensregeln ergänzt, die sich in meinem eigenen System über ein Jahr bewährt haben: eine Quelle je Information, alter Stand wird markiert statt gelöscht, fünf Fragen vor dem Speichern, nichts nach außen ohne Nachfrage.
 
 ## Lizenz
 
